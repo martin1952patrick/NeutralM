@@ -33,3 +33,5 @@
 <img src="./src/assets/appviews/movie-details.png" width="400px" height="auto">
 <hr>
 <img src="./src/assets/appviews/search results.png" width="400px" height="auto">
+
+.....
